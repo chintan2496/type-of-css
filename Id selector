@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <style>
+            #para1{
+                text-align: center;
+                color: aquamarine;
+            }
+        </style>
+    </head>
+    <body>
+        <p id="para1">hello world!</p>
+    </body>
+</html>
