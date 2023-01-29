@@ -1,0 +1,15 @@
+<html>
+  <head>
+    <style>
+      p{
+        text-align: center;
+        color: green;
+      }
+    </style>
+  </head>
+  <body>
+    <p>Every paragraph wiill be affected by the style</p>
+    <p id="para1">me too:</p>
+    <p>And me!</p>
+  </body>
+</html>
